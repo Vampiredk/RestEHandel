@@ -1,0 +1,11 @@
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\Restware.exe
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\Restware.dll
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\Restware.deps.json
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\Restware.runtimeconfig.json
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\Restware.pdb
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Simon\Source\Repos\Restware\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
